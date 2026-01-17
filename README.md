@@ -1,5 +1,5 @@
 # 💿 PowerISO
-<img width="700" height="393" alt="image" src="https://github.com/user-attachments/assets/26639fb8-9490-43a8-9bc8-5f053a4b3a9c" />
+<img width="326" height="155" alt="image" src="https://github.com/user-attachments/assets/26639fb8-9490-43a8-9bc8-5f053a4b3a9c" />
 
 PowerISO is a disc image management software built to create, edit, convert, mount, and burn image files — all from one place. Instead of treating image files as locked objects, PowerISO lets you work inside them with full control.
 # [Get a version of PowerISO from Releases](https://github.com/DreamPack-Software/PowerISO/releases)
