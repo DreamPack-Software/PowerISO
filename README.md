@@ -77,4 +77,4 @@ Best suited for optical media and image-based workflows
 
 Ideal for users who need more than basic disc burning
 
-# [Want a way simplified software than PowerISO? Get for free!](https://github.com/DreamPack-Software/UltraISO)
+# [Want a way simplified software than PowerISO? Get it](https://github.com/DreamPack-Software/UltraISO)
